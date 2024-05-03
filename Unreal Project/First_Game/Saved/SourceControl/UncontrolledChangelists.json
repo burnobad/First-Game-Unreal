@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Scenes/MainScene.umap"
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Scenes/MainScene.umap",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Props/M_Carbon.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Props/M_Metal.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Props/M_Plastic.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Props/SM_Crate.uasset"
 			]
 		}
 	]
