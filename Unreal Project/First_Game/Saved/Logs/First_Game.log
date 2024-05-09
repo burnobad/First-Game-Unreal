@@ -2824,3 +2824,331 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.08-20.47.49:185][646]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2024.05.08-20.47.49:185][646]LogShaderCompilers: Display: Material Cache Hits: 13 (4%)
 [2024.05.08-20.47.49:185][646]LogShaderCompilers: Display: ================================================
+[2024.05.08-20.51.07:233][553]LogEditorViewport: Clicking Background
+[2024.05.08-20.51.09:451][574]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.08-20.51.23:395][926]LogEditorViewport: Clicking Background
+[2024.05.08-20.51.47:345][432]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.05.08-20.51.47:349][432]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.05.08-20.51.47:377][432]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/Scenes/MainScene.MainScene:PersistentLevel.BlockingVolume_0
+[2024.05.08-20.51.47:467][432]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/Scenes/MainScene.MainScene:PersistentLevel.BlockingVolume_0
+[2024.05.08-20.51.48:720][504]Cmd: TRANSACTION UNDO
+[2024.05.08-20.51.48:731][504]LogEditorTransaction: Undo Place Object
+[2024.05.08-20.51.50:798][673]LogEditorViewport: Clicking Background
+[2024.05.08-20.51.50:819][673]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (BlockingVolume0)
+[2024.05.08-20.51.51:822][777]LogEditorViewport: Clicking Background
+[2024.05.08-20.52.11:769][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.08-20.52.11:769][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.08-20.52.11:770][471]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Scenes/MainScene.MainScene:PersistentLevel.StaticMeshActor_0
+[2024.05.08-20.52.11:792][471]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Scenes/MainScene.MainScene:PersistentLevel.StaticMeshActor_0
+[2024.05.08-20.52.13:723][656]Cmd: DELETE
+[2024.05.08-20.52.13:723][656]Cmd: ACTOR DELETE
+[2024.05.08-20.52.14:128][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.08-20.52.14:216][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.08-20.52.14:219][656]LogEditorActor: Deleted 1 Actors (0.179 secs)
+[2024.05.08-20.52.19:742][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.08-20.52.19:742][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.08-20.52.19:743][244]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Scenes/MainScene.MainScene:PersistentLevel.StaticMeshActor_2
+[2024.05.08-20.52.19:744][244]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Scenes/MainScene.MainScene:PersistentLevel.StaticMeshActor_2
+[2024.05.08-20.52.36:791][  2]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.08-20.52.40:070][136]LogSlate: Window 'Cube' being destroyed
+[2024.05.08-20.52.40:107][136]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-20.52.40:107][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-20.52.40:123][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.08-20.52.56:429][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-20.52.56:539][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.05.08-20.52.56:549][643]LogSavePackage: Moving output files for package: /Game/Scenes/MainScene
+[2024.05.08-20.52.56:549][643]LogSavePackage: Moving '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Saved/MainSceneBE99293943E3C6C5BD843EA96482D2C0.tmp' to '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Scenes/MainScene.umap'
+[2024.05.08-20.52.56:634][643]LogFileHelpers: Saving map 'MainScene' took 0.126
+[2024.05.08-20.52.56:699][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 270.295 ms (total: 2.81 sec)
+[2024.05.08-20.52.56:735][643]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.08-20.52.56:735][643]LogContentValidation: Enabled validators:
+[2024.05.08-20.52.56:735][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.08-20.52.56:735][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.08-20.52.56:736][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.08-20.52.56:736][643]LogContentValidation: Display: Validating asset /Game/Scenes/MainScene.MainScene
+[2024.05.08-20.52.56:736][643]AssetCheck: /Game/Scenes/MainScene Validating asset
+[2024.05.08-20.53.43:395][401]Cmd: DELETE
+[2024.05.08-20.53.43:395][401]Cmd: ACTOR DELETE
+[2024.05.08-20.53.43:396][401]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.08-20.53.43:403][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.05.08-20.53.43:405][401]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.05.08-20.53.46:643][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/SM_Crate.SM_Crate
+[2024.05.08-20.53.46:648][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/SM_Crate.SM_Crate
+[2024.05.08-20.53.46:648][752]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props/SM_Crate.SM_Crate as actor: StaticMeshActor /Game/Scenes/MainScene.MainScene:PersistentLevel.StaticMeshActor_3
+[2024.05.08-20.53.49:783][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.08-20.53.49:784][ 57]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2024.05.08-20.53.49:788][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/SM_Crate.SM_Crate
+[2024.05.08-20.53.49:788][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Props/SM_Crate.SM_Crate
+[2024.05.08-20.53.49:789][ 57]LogActorFactory: Actor Factory spawned StaticMesh /Game/Props/SM_Crate.SM_Crate as actor: StaticMeshActor /Game/Scenes/MainScene.MainScene:PersistentLevel.StaticMeshActor_4
+[2024.05.08-20.54.11:204][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-20.54.11:292][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.08-20.54.11:312][267]LogSavePackage: Moving output files for package: /Game/Scenes/MainScene
+[2024.05.08-20.54.11:313][267]LogSavePackage: Moving '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Saved/MainScene81FFA1154ADC7B9C5F1CAB8095F55789.tmp' to '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Scenes/MainScene.umap'
+[2024.05.08-20.54.11:318][267]LogFileHelpers: Saving map 'MainScene' took 0.051
+[2024.05.08-20.54.11:392][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.781 ms (total: 3.00 sec)
+[2024.05.08-20.54.11:450][267]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.08-20.54.11:450][267]LogContentValidation: Enabled validators:
+[2024.05.08-20.54.11:450][267]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.08-20.54.11:450][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.08-20.54.11:450][267]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.08-20.54.11:450][267]LogContentValidation: Display: Validating asset /Game/Scenes/MainScene.MainScene
+[2024.05.08-20.54.11:450][267]AssetCheck: /Game/Scenes/MainScene Validating asset
+[2024.05.08-21.18.35:249][741]LogDerivedDataCache: C:/Users/vladick burn0bed/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.118 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1278 files in 2109 folders with total size 105 MiB.
+[2024.05.08-22.18.34:297][404]LogDerivedDataCache: C:/Users/vladick burn0bed/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.165 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1278 files in 2109 folders with total size 105 MiB.
+[2024.05.08-23.18.35:245][325]LogDerivedDataCache: C:/Users/vladick burn0bed/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.113 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1278 files in 2109 folders with total size 105 MiB.
+[2024.05.08-23.46.14:856][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-23.46.14:937][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.08-23.46.14:944][681]LogSavePackage: Moving output files for package: /Game/Scenes/MainScene
+[2024.05.08-23.46.14:945][681]LogSavePackage: Moving '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Saved/MainScene50B5319A4978042BD9642E943B42573F.tmp' to '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Scenes/MainScene.umap'
+[2024.05.08-23.46.14:951][681]LogFileHelpers: Saving map 'MainScene' took 0.044
+[2024.05.08-23.46.15:011][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.850 ms (total: 3.16 sec)
+[2024.05.08-23.46.15:039][681]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.08-23.46.15:040][681]LogContentValidation: Enabled validators:
+[2024.05.08-23.46.15:040][681]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.08-23.46.15:040][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.08-23.46.15:040][681]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.08-23.46.15:040][681]LogContentValidation: Display: Validating asset /Game/Scenes/MainScene.MainScene
+[2024.05.08-23.46.15:040][681]AssetCheck: /Game/Scenes/MainScene Validating asset
+[2024.05.08-23.47.33:046][810]LogEditorViewport: Clicking Background
+[2024.05.08-23.47.35:258][911]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.08-23.47.35:912][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-23.47.36:059][911]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2024.05.08-23.47.36:062][911]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.05.08-23.47.36:295][912]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainScene
+[2024.05.08-23.47.36:374][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078756s)
+[2024.05.08-23.47.36:374][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainScene.MainScene to /Game/Scenes/UEDPIE_0_MainScene.MainScene (0.078906s)
+[2024.05.08-23.47.36:380][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.08-23.47.36:450][912]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.08-23.47.36:468][912]LogPlayLevel: PIE: World Init took: (0.045436s)
+[2024.05.08-23.47.37:268][912]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.08-23.47.37:268][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-23.47.37:268][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-23.47.37:268][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-23.47.37:268][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-23.47.37:268][912]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-23.47.37:268][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-23.47.37:268][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-23.47.37:268][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-23.47.37:293][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-23.47.37:294][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-23.47.37:294][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-23.47.37:295][912]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-23.47.37:333][912]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (2- Wireless Controller)
+[2024.05.08-23.47.37:334][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-23.47.37:334][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-23.47.37:334][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-23.47.37:335][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.08-23.47.37:335][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.08-23.47.37:337][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.08-23.47.37:337][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.08-23.47.37:337][912]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.08-23.47.37:337][912]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainScene'.
+[2024.05.08-23.47.37:337][912]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.08-23.47.37:638][912]LogLoad: Game class is 'GameModeBase'
+[2024.05.08-23.47.37:706][912]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2024.05.08-19.47.37
+[2024.05.08-23.47.37:798][912]LogWorld: Bringing up level for play took: 0.098173
+[2024.05.08-23.47.39:465][912]PIE: Server logged in
+[2024.05.08-23.47.39:469][912]PIE: Play in editor total start time 4.125 seconds.
+[2024.05.08-23.47.41:082][915]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.08-23.47.47:765][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-23.47.47:808][242]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainScene
+[2024.05.08-23.47.47:841][242]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-23.47.47:844][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-23.47.47:846][242]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.08-23.47.47:846][242]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.08-23.47.47:958][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-23.47.47:968][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-23.47.48:017][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-23.47.48:017][242]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.08-23.47.48:018][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.08-23.47.48:022][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.08-23.47.48:056][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.08-23.47.49:135][243]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: ================================================
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Total job queries 1,022, among them cache hits 687 (67.22%), DDC hits 151 (14.77%), Duplicates 8 (0.78%)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Tracking 327 distinct input hashes that result in 288 distinct outputs (88.07%)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: RAM used: 8.69 MiB of 819.20 MiB budget. Usage: 1.06%
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Shaders Compiled: 176
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Jobs assigned 176, completed 176 (100%)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Average time worker was idle: 452.49 s
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 1.30 s
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Job execution time: average 1.81 s, max 26.32 s
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Job life time (pending + execution): average 1.87 s, max 26.38
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Shader code size: average 37.94 KiB, min 4.527 KiB, max 55.621 KiB
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 77.48 s
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Jobs were issued in 176 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Average processing rate: 2.27 jobs/sec
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Total thread time: 178.146 s
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Total thread preprocess time: 12.66 s
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Percentage time preprocessing: 7.11%
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Effective parallelization: 2.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 1.93 sec, max 13.13 sec, min 0.32 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    9 times, average 1.26 sec, max 1.45 sec, min 1.02 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   14 times, average 1.22 sec, max 13.13 sec, min 0.24 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   34 times, average 1.13 sec, max 13.13 sec, min 0.33 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   44 times, average 1.11 sec, max 13.13 sec, min 0.39 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.41% of total time (compiled   44 times, average 1.11 sec, max 13.13 sec, min 0.39 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 21.62% of total time (compiled   34 times, average 1.13 sec, max 13.13 sec, min 0.33 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.62% of total time (compiled   14 times, average 1.22 sec, max 13.13 sec, min 0.24 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.69% of total time (compiled    8 times, average 1.93 sec, max 13.13 sec, min 0.32 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.36% of total time (compiled    9 times, average 1.26 sec, max 1.45 sec, min 1.02 sec)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: === Material stats ===
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Materials Translated:    345
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Material Total Translate Time: 0.47 s
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Material Translation Only: 0.11 s (23%)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: Material Cache Hits: 13 (4%)
+[2024.05.08-23.47.49:468][261]LogShaderCompilers: Display: ================================================
+[2024.05.08-23.47.52:697][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-23.47.52:897][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.08-23.47.52:903][307]LogSavePackage: Moving output files for package: /Game/Scenes/MainScene
+[2024.05.08-23.47.52:903][307]LogSavePackage: Moving '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Saved/MainScene398112504428BE0DE6021DB8EFA6E5EE.tmp' to '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Scenes/MainScene.umap'
+[2024.05.08-23.47.52:909][307]LogFileHelpers: Saving map 'MainScene' took 0.156
+[2024.05.08-23.47.53:076][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 379.591 ms (total: 3.54 sec)
+[2024.05.08-23.47.53:119][307]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.08-23.47.53:119][307]LogContentValidation: Enabled validators:
+[2024.05.08-23.47.53:119][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.08-23.47.53:119][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.08-23.47.53:119][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.08-23.47.53:119][307]LogContentValidation: Display: Validating asset /Game/Scenes/MainScene.MainScene
+[2024.05.08-23.47.53:120][307]AssetCheck: /Game/Scenes/MainScene Validating asset
+[2024.05.08-23.48.16:712][127]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.08-23.48.16:731][127]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.08-23.48.16:741][128]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.08-23.48.24:929][102]LogContentBrowser: Attempting asset rename: NewFolder -> GameElements
+[2024.05.08-23.48.24:951][102]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.08-23.48.46:615][570]LogWindows: LaunchURL https://docs.unrealengine.com/5.4/en/Programming/UnrealArchitecture/Actors?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2024.05.08-23.49.25:254][570]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.08-23.49.25:260][570]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.08-23.49.25:266][570]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.08-23.49.25:286][572]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.08-23.49.33:542][493]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Crate
+[2024.05.08-23.49.33:918][493]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.08-23.49.48:896][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameElements/BP_Crate.BP_Crate
+[2024.05.08-23.49.49:947][660]LogBlueprintEditor: Perf: 0.6 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2024.05.08-23.49.49:947][660]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/EditorBlueprintResources/StandardMacros
+[2024.05.08-23.49.53:191][660]LogTexture: Display: Waiting for textures to be ready 1/2 (/Engine/EditorResources/TilePatine_N) ...
+[2024.05.08-23.54.48:041][748]LogSlate: Window 'BP_Crate' being destroyed
+[2024.05.08-23.54.55:714][646]LogSlate: Took 0.055107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.08-23.55.56:919][603]LogUObjectHash: Compacting FUObjectHashTables data took  17.95ms
+[2024.05.08-23.56.31:216][909]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-23.56.31:216][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-23.56.31:367][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.08-23.56.37:826][648]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameElements/BP_Crate.BP_Crate
+[2024.05.08-23.56.40:103][834]LogSlate: Window 'BP_Crate' being destroyed
+[2024.05.08-23.56.45:070][425]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-23.56.45:070][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-23.56.45:110][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.08-23.56.48:022][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.08-23.56.49:807][715]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.08-23.56.50:040][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.08-23.56.50:057][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.08-23.56.50:074][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.08-23.56.53:118][761]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.08-23.56.53:142][761]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.08-23.56.53:839][761]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.08-23.56.53:857][763]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.08-23.56.57:052][ 66]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Crate
+[2024.05.08-23.56.57:058][ 66]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.08-23.56.58:360][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameElements/BP_Crate.BP_Crate
+[2024.05.08-23.57.01:261][411]LogSlate: Window 'BP_Crate' being destroyed
+[2024.05.08-23.59.32:249][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.08-23.59.32:253][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-23.59.32:312][174]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GameElements/BP_Crate] ([2] browsable assets)...
+[2024.05.08-23.59.32:322][174]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameElements/BP_Crate.BP_Crate]
+[2024.05.08-23.59.32:322][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameElements/BP_Crate]
+[2024.05.08-23.59.32:322][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameElements/BP_Crate" FILE="../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/GameElements/BP_Crate.uasset" SILENT=true
+[2024.05.08-23.59.32:356][174]LogSavePackage: Moving output files for package: /Game/GameElements/BP_Crate
+[2024.05.08-23.59.32:356][174]LogSavePackage: Moving '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Saved/BP_Crate017797324CFD6443A5E23A840F1A82F7.tmp' to '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/GameElements/BP_Crate.uasset'
+[2024.05.08-23.59.32:453][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.060 ms (total: 3.74 sec)
+[2024.05.08-23.59.32:515][174]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.08-23.59.32:515][174]LogContentValidation: Enabled validators:
+[2024.05.08-23.59.32:515][174]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.08-23.59.32:515][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.08-23.59.32:515][174]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.08-23.59.32:515][174]LogContentValidation: Display: Validating asset /Game/GameElements/BP_Crate.BP_Crate
+[2024.05.08-23.59.32:515][174]AssetCheck: /Game/GameElements/BP_Crate Validating asset
+[2024.05.08-23.59.50:495][567]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameElements/BP_Crate.BP_Crate_C
+[2024.05.08-23.59.50:495][567]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameElements/BP_Crate.BP_Crate_C
+[2024.05.08-23.59.50:497][567]LogActorFactory: Actor Factory spawned Blueprint /Game/GameElements/BP_Crate.BP_Crate as actor: BP_Crate_C /Game/Scenes/MainScene.MainScene:PersistentLevel.BP_Crate_C_0
+[2024.05.08-23.59.50:498][567]LogActorFactory: Actor Factory spawned Blueprint /Game/GameElements/BP_Crate.BP_Crate as actor: BP_Crate_C /Game/Scenes/MainScene.MainScene:PersistentLevel.BP_Crate_C_0
+[2024.05.08-23.59.51:224][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.08-23.59.51:254][623]LogEditorActor: Deleted 0 Actors (0.048 secs)
+[2024.05.08-23.59.51:258][623]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameElements/BP_Crate.BP_Crate_C
+[2024.05.08-23.59.51:258][623]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameElements/BP_Crate.BP_Crate_C
+[2024.05.08-23.59.51:260][623]LogActorFactory: Actor Factory spawned Blueprint /Game/GameElements/BP_Crate.BP_Crate as actor: BP_Crate_C /Game/Scenes/MainScene.MainScene:PersistentLevel.BP_Crate_C_1
+[2024.05.08-23.59.51:261][623]LogActorFactory: Actor Factory spawned Blueprint /Game/GameElements/BP_Crate.BP_Crate as actor: BP_Crate_C /Game/Scenes/MainScene.MainScene:PersistentLevel.BP_Crate_C_1
+[2024.05.09-00.00.02:148][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-00.00.02:305][682]LogPlayLevel: [PlayLevel] Compiling BP_Crate before play...
+[2024.05.09-00.00.02:454][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.09-00.00.02:455][682]LogPlayLevel: PlayLevel: Blueprint regeneration took 152 ms (1 blueprints)
+[2024.05.09-00.00.02:455][682]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2024.05.09-00.00.02:458][682]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.05.09-00.00.02:471][683]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainScene
+[2024.05.09-00.00.02:472][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001303s)
+[2024.05.09-00.00.02:472][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainScene.MainScene to /Game/Scenes/UEDPIE_0_MainScene.MainScene (0.001343s)
+[2024.05.09-00.00.02:488][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.09-00.00.02:489][683]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.09-00.00.02:490][683]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2024.05.09-00.00.03:079][683]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.09-00.00.03:079][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-00.00.03:079][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-00.00.03:079][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-00.00.03:079][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-00.00.03:079][683]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-00.00.03:079][683]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.09-00.00.03:079][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-00.00.03:079][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-00.00.03:079][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-00.00.03:079][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-00.00.03:079][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-00.00.03:081][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-00.00.03:116][683]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (2- Wireless Controller)
+[2024.05.09-00.00.03:117][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-00.00.03:117][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-00.00.03:117][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-00.00.03:118][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.09-00.00.03:118][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.09-00.00.03:119][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.09-00.00.03:119][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.09-00.00.03:119][683]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.09-00.00.03:119][683]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainScene'.
+[2024.05.09-00.00.03:119][683]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.09-00.00.03:122][683]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-00.00.03:123][683]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2024.05.08-20.00.03
+[2024.05.09-00.00.03:123][683]LogWorld: Bringing up level for play took: 0.000560
+[2024.05.09-00.00.03:670][683]PIE: Server logged in
+[2024.05.09-00.00.03:671][683]PIE: Play in editor total start time 1.507 seconds.
+[2024.05.09-00.00.11:288][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-00.00.11:288][ 80]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainScene
+[2024.05.09-00.00.11:288][ 80]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-00.00.11:288][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-00.00.11:288][ 80]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.09-00.00.11:288][ 80]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.09-00.00.11:292][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-00.00.11:296][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-00.00.11:313][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-00.00.11:313][ 80]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.09-00.00.11:313][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.09-00.00.11:315][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.09-00.00.11:322][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.09-00.00.12:048][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.05.09-00.00.12:593][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-00.00.12:681][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.09-00.00.12:685][105]LogSavePackage: Moving output files for package: /Game/Scenes/MainScene
+[2024.05.09-00.00.12:686][105]LogSavePackage: Moving '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Saved/MainScene1B22921641637AE8DEB3C2AF19B49DD9.tmp' to '../../../../../../projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Scenes/MainScene.umap'
+[2024.05.09-00.00.12:692][105]LogFileHelpers: Saving map 'MainScene' took 0.047
+[2024.05.09-00.00.12:738][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.726 ms (total: 3.88 sec)
+[2024.05.09-00.00.12:815][105]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.09-00.00.12:815][105]LogContentValidation: Enabled validators:
+[2024.05.09-00.00.12:815][105]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.09-00.00.12:815][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.09-00.00.12:815][105]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.09-00.00.12:815][105]LogContentValidation: Display: Validating asset /Game/Scenes/MainScene.MainScene
+[2024.05.09-00.00.12:815][105]AssetCheck: /Game/Scenes/MainScene Validating asset
