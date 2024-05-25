@@ -16,7 +16,15 @@
 				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Props/T_Metal_R.uasset",
 				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Props/T_Ribbing_A.uasset",
 				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Props/T_Ribbing_N.uasset",
-				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/GameElements/BP_Crate.uasset"
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/GameElements/BP_Crate.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Landscape/M_Landscape.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Landscape/Sand_LayerInfo.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Landscape/Grass_LayerInfo.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Landscape/T_SandTileabe_BC.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Landscape/T_Grass_M.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Environment/T_GrassClump.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Environment/M_Grass.uasset",
+				"D:/projects/Git/First-Game-Unreal/Unreal Project/First_Game/Content/Environment/SM_GrassClump.uasset"
 			]
 		}
 	]
